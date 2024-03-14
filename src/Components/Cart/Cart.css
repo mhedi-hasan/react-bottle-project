@@ -2,8 +2,12 @@
     display: grid;
     grid-template-columns: repeat(12,1fr);
     gap: 5px;
+    margin-bottom: 10px;
 }
 .cart-images img{
     height: 80px;
     width: 70px;
+}
+.remove-btn{
+    background-color: bisque;
 }
