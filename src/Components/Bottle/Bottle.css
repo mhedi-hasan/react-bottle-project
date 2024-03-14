@@ -1,5 +1,6 @@
 .bottle{
     border: 2px solid tomato;
-    padding: 15px;
+    padding-bottom: 10px;
+     width: 270px;
     border-radius: 12px;
 }
