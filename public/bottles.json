@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Sparkling Water",
+      "price":55,
+      "size": "500ml",
+      "brand": "Aqua",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqMWpTHIh_fzAKqNw8XMrJA1YJ_fdh1DHBaUBdnQBQQ&s"
+    },
+    {
+      "id": 2,
+      "name": "Cola",
+      "price":32,
+      "size": "330ml",
+      "brand": "Coca-Cola",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqMWpTHIh_fzAKqNw8XMrJA1YJ_fdh1DHBaUBdnQBQQ&s"
+    },
+    {
+      "id": 3,
+      "name": "Orange Juice",
+      "price":55,
+      "size": "1L",
+      "brand": "Tropicana",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqMWpTHIh_fzAKqNw8XMrJA1YJ_fdh1DHBaUBdnQBQQ&s"
+    },
+    {
+      "id": 4,
+      "name": "Sports Drink",
+      "price":40,
+      "size": "750ml",
+      "brand": "Gatorade",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqMWpTHIh_fzAKqNw8XMrJA1YJ_fdh1DHBaUBdnQBQQ&s"
+    },
+    {
+      "id": 5,
+      "name": "Mineral Water",
+      "price":30,
+      "size": "1.5L",
+      "brand": "Evian",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqMWpTHIh_fzAKqNw8XMrJA1YJ_fdh1DHBaUBdnQBQQ&s"
+    },
+    {
+      "id": 6,  
+      "name": "Craft Beer",
+      "price":35,
+      "size": "355ml",
+      "brand": "Brooklyn Brewery",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqMWpTHIh_fzAKqNw8XMrJA1YJ_fdh1DHBaUBdnQBQQ&s"
+    },
+    {
+        "id": 7,
+        "name": "Sports Water",
+        "price":50,
+        "size": "750ml",
+        "brand": "Mum",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqMWpTHIh_fzAKqNw8XMrJA1YJ_fdh1DHBaUBdnQBQQ&s"
+      },
+      {
+        "id": 8,
+        "name": "Mineral Drink",
+        "price":45,
+        "size": "1.5L",
+        "brand": "Evian",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqMWpTHIh_fzAKqNw8XMrJA1YJ_fdh1DHBaUBdnQBQQ&s"
+      },
+      {
+        "id": 9,  
+        "name": "Craft Fresh",
+        "price":36,
+        "size": "355ml",
+        "brand": "Brooklyn Brewery",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqMWpTHIh_fzAKqNw8XMrJA1YJ_fdh1DHBaUBdnQBQQ&s"
+      }
+  ]
+  
